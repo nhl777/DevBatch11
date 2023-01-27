@@ -1,0 +1,2 @@
+SoqlAssign.contactList();
+SoqlAssign.accountList();
